@@ -2,7 +2,7 @@ question1 =input("swavlob goashi: ")
 question2 =input("romel jgufshi xar :")
 question3 =input("batoni gabrieli xom araris sheni mentori: ")
 
-if question1 == "kiki":
+if question1 == "ki" : 
     print(input("romel jgufshi xar: "))
 
 if question2 == 13 :
