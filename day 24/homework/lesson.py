@@ -1,3 +1,5 @@
+#ლუპებზე ივარჯიშეთ ისევდაისევ თქვენით, იექპერიმენტეთ
+
 password= int(input("sheiyvane paroli: "))
 
 while password != 190020001996:
